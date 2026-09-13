@@ -1,0 +1,5 @@
+{
+  "buildCommand": "unzip -o *.zip -d public",
+  "outputDirectory": "public",
+  "installCommand": "echo skip"
+}
